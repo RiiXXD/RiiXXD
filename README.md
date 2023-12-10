@@ -25,6 +25,8 @@
 - ⚡ Fun fact **Bugs can't in the shadow!**
 <br/>
 <hr/>
+<p>With a flair for crafting visually stunning and seamless user interfaces. I thrive on the creative side of coding, bringing designs to life and ensuring delightful user experiences. Proficient in HTML, CSS, and JavaScript, I have a keen eye for design details and a commitment to building responsive, cross-browser-compatible websites. Whether it's implementing complex animations or optimizing performance for optimal user interactions, I love the challenge of turning ideas into interactive realities. With a strong dedication to staying current with the latest frontend technologies and design trends, I'm on a mission to create digital experiences that captivate and inspire.</p>
+<hr/>
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riixxd" alt="riixxd" /></a>
 </p>
