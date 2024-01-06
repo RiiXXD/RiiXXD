@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Unbounded&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishita+Mukherjee!;" />
 </h1>
 
-<h3 align="center">FRONTEND WEB DEVELOPER</h3>
+<h3 align="center">FULL STACK WEB DEVELOPER</h3>
 <br>
 <br>
 
