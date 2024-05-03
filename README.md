@@ -39,7 +39,7 @@
 <br>
 <p align="left">
   <div align="center">
-<a href="https://instagram.com/midnight_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midnight_coder" height="30" width="40" /></a>
+<a href="https://instagram.com/midnight__coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midnight__coder" height="30" width="40" /></a>
 <a href="https://dribbble.com/drii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thereforeme06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thereforeme06" height="30" width="40" /></a>
 
