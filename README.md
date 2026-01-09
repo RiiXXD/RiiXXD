@@ -45,7 +45,9 @@ ServiceNow Developer with **1+ year of hands-on experience** in platform develop
 - App load testing & approvals
 - Cross-team coordination (Integration, Discovery, Platform Support)
 - Prod / Non-prod upgrades & validations
-- CyberArk integrations (coordination)
+- Working with Linux servers for **Plugin installation, configuration & maintenance**  
+- Handling **service restarts, log analysis, and connectivity checks**  
+- Basic shell commands for navigation, permissions, and process monitoring  
 
 ---
 
@@ -67,8 +69,11 @@ ServiceNow Developer with **1+ year of hands-on experience** in platform develop
 </div>
 
 ---
-
 ## 🏆 Highlights
+
+[![Achievement](https://img.shields.io/badge/✨%20Achievement-Proud%20Moment-f78fb3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:share:7393359407134330880)
+
+[![Internship Recognition](https://img.shields.io/badge/💼%20Internship%20Recognition-Proud%20Moment-63cdda?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:share:7160869588442779648)
 
 ---
 
